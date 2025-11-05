@@ -1,4 +1,4 @@
-package com.tricolspringboot.tricol.dto.request;
+package com.tricolspringboot.tricol.dto.response;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
