@@ -1,4 +1,8 @@
 package com.tricolspringboot.tricol.enums;
 
-public class StatutCommande {
+public enum StatutCommande {
+    EN_ATTENTE,
+    VALIDEE,
+    LIVREE,
+    ANNULEE
 }

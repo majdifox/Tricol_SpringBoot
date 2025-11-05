@@ -1,0 +1,9 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/001-create-fournisseur.yaml
+  - include:
+      file: db/changelog/002-create-produit.yaml
+  - include:
+      file: db/changelog/003-create-commande.yaml
+  - include:
+      file: db/changelog/004-create-mouvement-stock.yaml
